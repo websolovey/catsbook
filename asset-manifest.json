@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/catsbook/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/catsbook/static/js/main.198402dc.chunk.js",
+    "main.js.map": "/catsbook/static/js/main.198402dc.chunk.js.map",
+    "runtime-main.js": "/catsbook/static/js/runtime-main.33f16f26.js",
+    "runtime-main.js.map": "/catsbook/static/js/runtime-main.33f16f26.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/catsbook/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.6a1a35c3.chunk.js": "/catsbook/static/js/2.6a1a35c3.chunk.js",
+    "static/js/2.6a1a35c3.chunk.js.map": "/catsbook/static/js/2.6a1a35c3.chunk.js.map",
+    "index.html": "/catsbook/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/catsbook/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/catsbook/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.6a1a35c3.chunk.js.LICENSE.txt": "/catsbook/static/js/2.6a1a35c3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33f16f26.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.6a1a35c3.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.198402dc.chunk.js"
+  ]
+}
