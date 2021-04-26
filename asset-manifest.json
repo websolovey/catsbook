@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/catsbook/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/catsbook/static/js/main.198402dc.chunk.js",
-    "main.js.map": "/catsbook/static/js/main.198402dc.chunk.js.map",
+    "main.js": "/catsbook/static/js/main.1400300b.chunk.js",
+    "main.js.map": "/catsbook/static/js/main.1400300b.chunk.js.map",
     "runtime-main.js": "/catsbook/static/js/runtime-main.33f16f26.js",
     "runtime-main.js.map": "/catsbook/static/js/runtime-main.33f16f26.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/catsbook/static/css/2.4c97ca4f.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.6a1a35c3.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.198402dc.chunk.js"
+    "static/js/main.1400300b.chunk.js"
   ]
 }
