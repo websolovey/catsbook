@@ -22,7 +22,7 @@ const NavBar = () => {
       <StyledNavbar color="light" light expand="md">
         <Container>
           <NavbarBrand>
-            <Link to="/" className="nav-link">
+            <Link to="/catsbook" className="nav-link">
               CatsBook
             </Link>
           </NavbarBrand>
@@ -30,24 +30,24 @@ const NavBar = () => {
           <Collapse navbar>
             <Nav className="mr-auto" navbar>
               <NavItem>
-                <Link to="/" className="nav-link">
+                <Link to="/catsbook" className="nav-link">
                   Главная
                 </Link>
               </NavItem>
               <NavItem>
-                <Link to="/news" className="nav-link">
+                <Link to="/catsbook/news" className="nav-link">
                   Новости
                 </Link>
               </NavItem>
             </Nav>
 
             <NavbarText>
-              <Link to="/profile" className="nav-link">
+              <Link to="/catsbook/profile" className="nav-link">
                 Профиль
               </Link>
             </NavbarText>
             <NavbarText>
-              <Link to="/authorization" className="nav-link">
+              <Link to="/catsbook/authorization" className="nav-link">
                 Авторизация
               </Link>
             </NavbarText>

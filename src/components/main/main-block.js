@@ -14,7 +14,7 @@ const StyledImg = styled.img`
 const MainBlock = () => {
   return (
     <Switch>
-      <Route exact path="/">
+      <Route exact path="/catsbook">
         <Row>
           <>
             <Col>
@@ -25,13 +25,13 @@ const MainBlock = () => {
           </>
         </Row>
       </Route>
-      <Route exact path="/authorization">
+      <Route exact path="/catsbook/authorization">
         <Authorization />
       </Route>
-      <Route exact path="/news">
+      <Route exact path="/catsbook/news">
         <NewsBlock />
       </Route>
-      <Route exact path="/profile">
+      <Route exact path="/catsbook/profile">
         <ProfileBlock />
       </Route>
       <Route>
